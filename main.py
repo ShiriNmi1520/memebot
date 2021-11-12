@@ -72,4 +72,4 @@ class MyClient(discord.Client):
         # print(re)
 
 client = MyClient()
-client.run('ODMwNjAxNDc4NTM2MTY3NDI0.YHJD6A.sffxuKc9K0DWGUJaZXb2pUkSoWo')
+client.run('')
